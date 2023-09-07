@@ -21,3 +21,9 @@ git init
 ```
 git fetch https://chromium.googlesource.com/chromium/src.git +refs/tags/116.0.5845.180:chromium_116.0.5845.180 --depth 1
 ```
+```
+git tag
+```
+```
+git checkout tags/116.0.5845.180
+```
